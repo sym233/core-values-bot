@@ -1,0 +1,20 @@
+{
+  "name": "core-values-bot",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "ts-node coreValuesEncoder.test.ts"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.36.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  },
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT"
+}
