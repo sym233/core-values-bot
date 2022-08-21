@@ -7,7 +7,7 @@
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "socks5-https-client": "^1.2.1",
-    "telegraf": "^3.36.0"
+    "telegraf": "^4.8.6"
   },
   "devDependencies": {
     "@types/node": "^13.7.7",
